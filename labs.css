@@ -1,0 +1,143 @@
+.menu
+{
+FONT-SIZE: 10px; 
+COLOR: #000000; 
+; font-weight: bold
+}
+.menu:hover 
+{
+background-color: #E7E7E7;
+TEXT-DECORATION: none;
+}
+
+.data
+{
+    FONT-SIZE: 9px
+; font-weight: normal
+; color: #666666
+; font-variant: normal
+}
+
+
+A:active
+{
+    COLOR: #666666;
+    TEXT-DECORATION: none
+}
+A 
+{  
+color: #000000; 
+text-decoration: none
+}
+
+A:hover
+{
+    COLOR: #6E6E6E
+}
+A:link
+{
+    COLOR: #666666;
+    TEXT-DECORATION: none
+}
+
+
+
+BODY
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+P
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+TABLE
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+TR
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+TD
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px
+}
+
+.title
+{
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+; color: #666666
+}
+
+.links {
+COLOR: #616542; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+FONT-SIZE: 7.5pt; 
+TEXT-DECORATION: none; 
+background-color: #484830
+}
+
+
+.select {
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 7.5pt; 		
+	TEXT-DECORATION: none
+}
+
+
+A:link {
+	COLOR: #333300
+}
+A:active {
+	COLOR: #000000
+}
+A:visited {
+	COLOR: #000000
+}
+A:hover {
+	BACKGROUND-COLOR: #333300; COLOR: #ffffff
+; border-style: none; border-top-width: auto; border-right-width: auto; border-bottom-width: auto; border-left-width: auto
+}
+
+BODY
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
+P
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
+TABLE
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
+TR
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
+TD
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 10px
+}
